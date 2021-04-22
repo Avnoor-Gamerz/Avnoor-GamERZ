@@ -1,4 +1,4 @@
-<a href = "https://arindamz.github.io/">
+<a href = "https://avnoor-gamerz.github.io/">
 <img src = "https://cdn.discordapp.com/attachments/762630523536408596/831099697435377684/Avnoor-Gamerz-banner.gif" />
 </a>
 
