@@ -10,9 +10,9 @@ I'm Avnoor Chahal. You can call me Avnoor Gamerz if you want. I'm a passionate d
 
 
 ### ⚒️ Programming Languages and Tools
-<img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img width="35px" src="https://cdn.discordapp.com/emojis/740222847586271383.png?v=1" />
-<img width="35px" src="https://cdn.discordapp.com/attachments/748808131865215004/772150093624508436/code512.png" />
+<img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img width="35px" src="https://cdn.discordapp.com/emojis/740222847586271383.png?v=1"/>
+<img width="35px" src="https://cdn.discordapp.com/attachments/748808131865215004/772150093624508436/code512.png"/>
 
 <hr>
 
