@@ -23,7 +23,7 @@ I'm Avnoor Chahal. You can call me Avnoor Gamerz if you want. I'm a passionate d
 [![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&redirect=true)
 
 # Links
-- **[Discord](https://discord.gg/4a4sXGh3HH)**
+- **[Discord](https://discord.gg/SVedeM2SvS)**
 - **[Twitter](https://twitter.com/AvnoorGamerz)**
 
 ![](https://komarev.com/ghpvc/?username=Avnoor-Gamerz&style=flat-square)
