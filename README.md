@@ -6,16 +6,6 @@
 ### :bust_in_silhouette: About
 I'm Avnoor Chahal. You can call me Avnoor Gamerz if you want. I'm a passionate developer making awesome things for tons of smiling faces. I like making things, especially things that help or entertain others. I spend my free time writing software, singing, making code more efficient or succinct, and occasionally playing video games.
 
-<hr>
-
-
-### ⚒️ Programming Languages and Tools
-<img width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img width="35px" src="https://cdn.discordapp.com/emojis/740222847586271383.png?v=1"/>
-<img width="35px" src="https://cdn.discordapp.com/attachments/748808131865215004/772150093624508436/code512.png"/>
-
-<hr>
-
 ### 🔖 My Statistics
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Avnoor-Gamerz&theme=dark&hide_border=true)
 ![Avnoor Gamerz](https://github-readme-stats.vercel.app/api?username=Avnoor-Gamerz&show_icons=true&theme=tokyonight&hide=["issues"])
